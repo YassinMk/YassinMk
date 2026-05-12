@@ -5,7 +5,7 @@
 <tr>
   <td valign="center">
     🎓 I am currently pursuing a DEUG degree in a general field at the university</b>.<br>
-    👨‍🎓 Engineer Student in second year <b>Software & Distribution Systeme</b> @ ENSET .<br>
+    👨‍🎓 Software Engineer & Distribution Systeme .<br>
     🌱 interested in <b>Web Development</b> and <b>IA</b> in general.<br>
     🎯 My Goal is to Contribute to as many <b>open source project <b>as possible</b>.<br>
     ✨ I love to discover the latest type of </b> technology and content<b>.
@@ -13,7 +13,7 @@
    <td valign="center">
     <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yassine-mkhallal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdeljalil-el-majjodi-1062381a9" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yassine-mkhallal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-MK-1062381a9" height="30" width="40" /></a>
 </p>
    </td>
 </tr>
