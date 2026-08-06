@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YASSINE MKHALLAL</h1>
-<h3 align="center">Software Engineer Student  & Distribution Systeme @ ENSET</h3>
+<h3 align="center">Software Engineer & Distribution Systeme</h3>
 
 <table align="center">
 <tr>
